@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by NB!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@NB                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -45,7 +45,7 @@ console.log('\x1b[32m%s\x1b[0m', `|    🌼 Logged in as ${client.user.username}
 
 const serverCount = client.guilds.cache.size;
 setInterval(() => client.user.setActivity({ 
-  name:`lavaLink GlaceYT`, 
+  name:`/Play`,
   type: ActivityType.Listening }), 10000);
 client.errorLog = config.errorLog
   
@@ -62,10 +62,10 @@ client.errorLog = config.errorLog
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by NB!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@NB                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 

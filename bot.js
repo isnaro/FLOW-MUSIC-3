@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by NB!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@NB                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -91,7 +91,7 @@ app.get('/', (req, res) => {
     res.sendFile(imagePath);
 });
 app.listen(port, () => {
-    console.log(`🔗 Listening to GlaceYT : http://localhost:${port}`);
+    console.log(`🔗 Listening to NB : http://localhost:${port}`);
 });
 
 printWatermark();
@@ -107,10 +107,10 @@ printWatermark();
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by NB!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@NB                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 

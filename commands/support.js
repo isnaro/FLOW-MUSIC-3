@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by NB!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@NB                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -30,9 +30,9 @@ module.exports = {
     try {
 
       const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
-      const replitLink = "https://replit.com/@GlaceYT";
-      const youtubeLink = "https://www.youtube.com/@GlaceYT";
+      const githubLink = "https://github.com/NB";
+      const replitLink = "https://replit.com/@NB";
+      const youtubeLink = "https://www.youtube.com/@NB";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
@@ -62,10 +62,10 @@ module.exports = {
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by NB!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@NB                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
